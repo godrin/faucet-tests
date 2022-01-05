@@ -1,0 +1,6 @@
+Done:
+1. > npm -i --save-dev faucet-pipeline-esnext
+2. created faucet.config.js, index.html and index.js
+3. npx faucet
+4. <browser> index.html
+5. look at the console
